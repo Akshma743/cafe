@@ -35,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/Akshma743/cafe/tree/master/0097-interleaving-string) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Akshma743/cafe/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Akshma743/cafe/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
