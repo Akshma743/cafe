@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Akshma743/cafe/tree/master/0006-zigzag-conversion) |
 | [0097-interleaving-string](https://github.com/Akshma743/cafe/tree/master/0097-interleaving-string) |
 ## Dynamic Programming
 |  |
