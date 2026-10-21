@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Akshma743/cafe/tree/master/0006-zigzag-conversion) |
+| [0093-restore-ip-addresses](https://github.com/Akshma743/cafe/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Akshma743/cafe/tree/master/0097-interleaving-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Akshma743/cafe/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Akshma743/cafe/tree/master/0151-reverse-words-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/Akshma743/cafe/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
