@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Akshma743/cafe/tree/master/0006-zigzag-conversion) |
+| [0087-scramble-string](https://github.com/Akshma743/cafe/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/Akshma743/cafe/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Akshma743/cafe/tree/master/0097-interleaving-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Akshma743/cafe/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/Akshma743/cafe/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Akshma743/cafe/tree/master/0097-interleaving-string) |
 ## Array
 |  |
