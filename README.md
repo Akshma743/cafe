@@ -44,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0087-scramble-string](https://github.com/Akshma743/cafe/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Akshma743/cafe/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/Akshma743/cafe/tree/master/0118-pascals-triangle) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akshma743/cafe/tree/master/0001-two-sum) |
+| [0118-pascals-triangle](https://github.com/Akshma743/cafe/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
