@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Akshma743/cafe/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/Akshma743/cafe/tree/master/0013-roman-to-integer) |
 | [0087-scramble-string](https://github.com/Akshma743/cafe/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/Akshma743/cafe/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Akshma743/cafe/tree/master/0097-interleaving-string) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akshma743/cafe/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Akshma743/cafe/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/Akshma743/cafe/tree/master/0093-restore-ip-addresses) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Akshma743/cafe/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
