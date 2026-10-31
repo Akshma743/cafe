@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Akshma743/cafe/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Akshma743/cafe/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Akshma743/cafe/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Akshma743/cafe/tree/master/0118-pascals-triangle) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akshma743/cafe/tree/master/0001-two-sum) |
+| [0085-maximal-rectangle](https://github.com/Akshma743/cafe/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Akshma743/cafe/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Akshma743/cafe/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
@@ -77,4 +79,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Akshma743/cafe/tree/master/0013-roman-to-integer) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Akshma743/cafe/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Akshma743/cafe/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Akshma743/cafe/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
