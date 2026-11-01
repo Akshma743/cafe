@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Akshma743/cafe/tree/master/0001-two-sum) |
 | [0085-maximal-rectangle](https://github.com/Akshma743/cafe/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Akshma743/cafe/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Akshma743/cafe/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Akshma743/cafe/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Akshma743/cafe/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Akshma743/cafe/tree/master/0151-reverse-words-in-a-string) |
 ## Backtracking
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Akshma743/cafe/tree/master/0085-maximal-rectangle) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Akshma743/cafe/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
