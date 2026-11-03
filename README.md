@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Akshma743/cafe/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Akshma743/cafe/tree/master/0013-roman-to-integer) |
+| [0068-text-justification](https://github.com/Akshma743/cafe/tree/master/0068-text-justification) |
 | [0087-scramble-string](https://github.com/Akshma743/cafe/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/Akshma743/cafe/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Akshma743/cafe/tree/master/0097-interleaving-string) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akshma743/cafe/tree/master/0001-two-sum) |
+| [0068-text-justification](https://github.com/Akshma743/cafe/tree/master/0068-text-justification) |
 | [0085-maximal-rectangle](https://github.com/Akshma743/cafe/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Akshma743/cafe/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Akshma743/cafe/tree/master/0118-pascals-triangle) |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Akshma743/cafe/tree/master/0088-merge-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/Akshma743/cafe/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
