@@ -103,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Akshma743/cafe/tree/master/0068-text-justification) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Akshma743/cafe/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
