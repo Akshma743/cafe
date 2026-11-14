@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Akshma743/cafe/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Akshma743/cafe/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Akshma743/cafe/tree/master/0119-pascals-triangle-ii) |
+| [0164-maximum-gap](https://github.com/Akshma743/cafe/tree/master/0164-maximum-gap) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Akshma743/cafe/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/Akshma743/cafe/tree/master/0164-maximum-gap) |
 ## Simulation
 |  |
 | ------- |
@@ -108,4 +110,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0182-duplicate-emails](https://github.com/Akshma743/cafe/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Akshma743/cafe/tree/master/0183-customers-who-never-order) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Akshma743/cafe/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Akshma743/cafe/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Akshma743/cafe/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
